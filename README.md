@@ -11,7 +11,7 @@ Um projeto de teste com um arquivo README✨
 
 1- Clone o projeto
 ```
-git clone <url>
+git clone <https://github.com/MCosta69/repositorio-com-readme.git>
 ```
 
 2- Acesse a pasta do projeto
